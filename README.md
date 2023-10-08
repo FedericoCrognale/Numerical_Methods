@@ -1,5 +1,5 @@
 # numerical_methods
-MSc Physics, course "Metodi numerici per la fisica" (University of Pisa)
+--- MSc Physics, course "Metodi numerici per la fisica" (University of Pisa) ---
 
 Module 0: General algorithms (root finding, integration of ODE)
 
